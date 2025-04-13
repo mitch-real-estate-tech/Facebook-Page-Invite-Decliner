@@ -20,3 +20,15 @@ You’ll now see the extension icon in your browser — go to your Facebook invi
 
 Built by [Mitchell Rice](https://www.linkedin.com/in/mitchellrice/) — follow for more time-saving tools and real estate automation tips!
 
+---
+
+### 🔐 License
+
+This extension is open-source and provided under the [MIT License](LICENSE).
+
+✅ You can:
+- Download, use, and modify it freely
+- Share it with others
+- Fork it to build your own version
+
+⚠️ You’re responsible for how you use it — no warranties or guarantees. It clicks buttons on your behalf just like a human would, but you're responsible for your own account activity, especially if Facebook doesn't like it. 
